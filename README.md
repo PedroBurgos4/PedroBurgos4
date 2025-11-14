@@ -39,13 +39,13 @@
 <hr width="36%" >
 <h3>Proyects</h3>
 
-  1. ProyectoJava (https://github.com/PedroBurgos4/ProyectoJava.git)<br>
+  1. [ProyectoJava] (https://github.com/PedroBurgos4/ProyectoJava.git)<br>
   - Project using Java, JPA, and MySQL for managing a library.<br>
-  2. MyMusicApp (https://github.com/PedroBurgos4/MyMusicApp.git)<br>
+  2. [MyMusicApp] (https://github.com/PedroBurgos4/MyMusicApp.git)<br>
   - Project using React and css for a music application.<br>
-  3. MovieApp (https://github.com/PedroBurgos4/MovieApp.git)<br>
+  3. [MovieApp] (https://github.com/PedroBurgos4/MovieApp.git)<br>
   - It is a movie project where CSS and React were used.
-  4. PhotoLand (https://github.com/PedroBurgos4/PhotoLand.git)<br>
+  4. [PhotoLand] (https://github.com/PedroBurgos4/PhotoLand.git)<br>
   - It is a project for a photo website with responsive design and one using JavaScript.<br>
 
 <hr width="36%" >
@@ -58,17 +58,3 @@
 
 
 
-<!--
-**PedroBurgos4/PedroBurgos4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
