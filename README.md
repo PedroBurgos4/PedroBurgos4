@@ -11,7 +11,7 @@
 </div>
 <div>
   <p>
-    - I am a professional in Computer Systems Engineering with experience in Full Stack development, specializing in the creation of evaluation systems and the development of educational software.
+    - I am a professional in Computer Systems Engineering with experience in Full Stack development, specializing in the creation of evaluation systems and the development of educational software.&nbsp;
     - I'm currently finishing my studies as a Full Stack Java developer
   </p>
   
@@ -34,6 +34,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroBurgos4&show_icons=true&theme=dark&locale=en&layout=compact" alt="PedroBurgos4" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=PedroBurgos4" align="left /></p>
+
+<hr width="36%" >
+<h3>Proyects</h3>
+<p>
+  1. <a src="https://github.com/PedroBurgos4/ProyectoJava.git">ProyectoJava</a>nbsp;
+  - Project using Java, JPA, and MySQL for managing a library
+</p>
 
 <hr width="36%" >
 
