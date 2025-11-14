@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,github,html,java,js,materialui,mysql,postman,react,redux,tailwind,php,spring,maven,vscode,intellij&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,docker,github,html,java,js,materialui,mysql,postman,react,redux,tailwind,php,spring,maven,vscode&perline=14" />
   </a>
 </p>
 <h3>My GitHub Stats</h3>
@@ -36,6 +36,10 @@
 
 <hr width="36%" >
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/pedro-flores-burgos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+</p>
 
 
 
