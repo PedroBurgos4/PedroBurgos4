@@ -3,7 +3,12 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Pedro Flores Burgos</h1></summary>
   </ul>
 </div>
-***About me ....***
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About me👨</h2></summary>
+  </ul>
+</div>
+
 Professional in Computer Systems Engineering with experience in Full Stack development, with expertise in creating evaluation systems and developing educational software
 
 <div id="user-content-toc">
