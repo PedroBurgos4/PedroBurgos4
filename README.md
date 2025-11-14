@@ -3,7 +3,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Pedro Flores Burgos</h1></summary>
   </ul>
 </div>
-
+##About me
+Professional in Computer Systems Engineering with experience in Full Stack development, with expertise in creating evaluation systems and developing educational software
 
 <div id="user-content-toc">
   <ul align="center">
@@ -13,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,github,html,java,js,axios,materialui,mysql,postman,react,redux,tailwind,php,spring,maven,vscode,intellij&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,docker,github,html,java,js,materialui,mysql,postman,react,redux,tailwind,php,spring,maven,vscode,intellij&perline=14" />
   </a>
 </p>
 
