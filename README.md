@@ -3,13 +3,20 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Pedro Flores Burgos</h1></summary>
   </ul>
 </div>
+<hr width="36%" >
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">About me👨</h2></summary>
+    <summary><h2 style="display: inline-block">About me</h2></summary>
   </ul>
 </div>
-
-Professional in Computer Systems Engineering with experience in Full Stack development, with expertise in creating evaluation systems and developing educational software
+<div>
+  <p>
+    - I am a professional in Computer Systems Engineering with experience in Full Stack development, specializing in the creation of evaluation systems and the development of educational software.
+    - I'm currently finishing my studies as a Full Stack Java developer
+  </p>
+  
+</div>
+<hr width="36%" >
 
 <div id="user-content-toc">
   <ul align="center">
@@ -22,6 +29,8 @@ Professional in Computer Systems Engineering with experience in Full Stack devel
     <img src="https://skillicons.dev/icons?i=git,css,docker,github,html,java,js,materialui,mysql,postman,react,redux,tailwind,php,spring,maven,vscode,intellij&perline=14" />
   </a>
 </p>
+<h3>My GitHub Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroBurgos4&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
 
 <!--
