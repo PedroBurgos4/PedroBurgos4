@@ -1,4 +1,22 @@
-## Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Pedro Flores Burgos</h1></summary>
+  </ul>
+</div>
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,github,html,java,js,materialui,mysql,postman,react,redux,tailwind,,vscode&perline=14" />
+  </a>
+</p>
+
 
 <!--
 **PedroBurgos4/PedroBurgos4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
