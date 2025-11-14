@@ -11,7 +11,7 @@
 </div>
 <div>
   <p>
-    - I am a professional in Computer Systems Engineering with experience in Full Stack development, specializing in the creation of evaluation systems and the development of educational software.&nbsp;
+    - I am a professional in Computer Systems Engineering with experience in Full Stack development, specializing in the creation of evaluation systems and the development of educational software.<br>
     - I'm currently finishing my studies as a Full Stack Java developer
   </p>
   
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,github,html,java,js,materialui,mysql,postman,react,redux,tailwind,php,spring,maven,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,vite,docker,github,html,java,js,materialui,mysql,postman,react,redux,tailwind,php,spring,maven,vscode&perline=14" />
   </a>
 </p>
 <hr width="96%" >
@@ -36,10 +36,16 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=PedroBurgos4" align="left /></p>
 
 <hr width="36%" >
-## Proyects
+<h3>Proyects</h3>
 
-  1. [ProyectoJava] (https://github.com/PedroBurgos4/ProyectoJava.git)
-  - Project using Java, JPA, and MySQL for managing a library
+  1. ProyectoJava (https://github.com/PedroBurgos4/ProyectoJava.git)<br>
+  - Project using Java, JPA, and MySQL for managing a library.<br>
+  2. MyMusicApp (https://github.com/PedroBurgos4/MyMusicApp.git)<br>
+  - Project using React and css for a music application.<br>
+  3. MovieApp (https://github.com/PedroBurgos4/MovieApp.git)<br>
+  - It is a movie project where CSS and React were used.
+  4. PhotoLand (https://github.com/PedroBurgos4/PhotoLand.git)<br>
+  - It is a project for a photo website with responsive design and one using JavaScript.<br>
 
 <hr width="36%" >
 
