@@ -30,8 +30,14 @@
   </a>
 </p>
 <h3>My GitHub Stats</h3>
-<p><img src="https://github-readme-stats.vercel.app/api?username=PedroBurgos4" align="left /><p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroBurgos4&show_icons=true&theme=dark&locale=en&layout=compact" alt="PedroBurgos4" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=PedroBurgos4" align="left /></p>
+
+<hr width="36%" >
+
+
+
 
 
 <!--
