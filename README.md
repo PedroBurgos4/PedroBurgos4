@@ -38,7 +38,7 @@
 <hr width="36%" >
 <h3>Proyects</h3>
 <p>
-  1. <a src="https://github.com/PedroBurgos4/ProyectoJava.git">ProyectoJava</a>nbsp;
+  1. [ProyectoJava] (https://github.com/PedroBurgos4/ProyectoJava.git)
   - Project using Java, JPA, and MySQL for managing a library
 </p>
 
