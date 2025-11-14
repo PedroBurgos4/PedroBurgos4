@@ -3,9 +3,9 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Pedro Flores Burgos</h1></summary>
   </ul>
 </div>
-<hr width="36%" >
+<hr width="96%" >
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">About me</h2></summary>
   </ul>
 </div>
@@ -16,7 +16,7 @@
   </p>
   
 </div>
-<hr width="36%" >
+<hr width="96%" >
 
 <div id="user-content-toc">
   <ul align="center">
@@ -29,6 +29,7 @@
     <img src="https://skillicons.dev/icons?i=git,css,docker,github,html,java,js,materialui,mysql,postman,react,redux,tailwind,php,spring,maven,vscode&perline=14" />
   </a>
 </p>
+<hr width="96%" >
 <h3>My GitHub Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroBurgos4&show_icons=true&theme=dark&locale=en&layout=compact" alt="PedroBurgos4" /></p>
