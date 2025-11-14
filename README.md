@@ -12,7 +12,8 @@
 <div>
   <p>
     - I am a professional in Computer Systems Engineering with experience in Full Stack development, specializing in the creation of evaluation systems and the development of educational software.<br>
-    - I'm currently finishing my studies as a Full Stack Java developer
+    - I'm currently finishing my studies as a Full Stack Java developer.<br>
+    - I recently learned Java, Maven, Spring, and TypeScript.
   </p>
   
 </div>
