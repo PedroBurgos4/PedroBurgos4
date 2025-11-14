@@ -36,11 +36,10 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=PedroBurgos4" align="left /></p>
 
 <hr width="36%" >
-<h3>Proyects</h3>
-<p>
+## Proyects
+
   1. [ProyectoJava] (https://github.com/PedroBurgos4/ProyectoJava.git)
   - Project using Java, JPA, and MySQL for managing a library
-</p>
 
 <hr width="36%" >
 
